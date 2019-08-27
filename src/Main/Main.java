@@ -1,9 +1,9 @@
 package Main;
 
 /**
- * @author Radames J Halmeman - rjhalmeman@gmail.com
+ * @author Mari
  */
-public class Main {
+public class Main { // eu 
 
     public static void main(String[] args) {
         Entrada entrada = new Entrada();
